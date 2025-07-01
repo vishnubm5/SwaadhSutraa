@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+motor  # MongoDB async client
+crewai  # AI model integration
+python-dotenv  # For environment variables
+markdown 
